@@ -52,6 +52,12 @@ namespace Bresenham
 
 
             return pionts;
+       
+        }
+
+        public void Prinf(string myname)
+        {
+            Console.WriteLine(myname);
         }
     }
 }
